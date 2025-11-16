@@ -4,7 +4,7 @@
 
 ---
 
-## U+1F3AF Objectifs du repository
+## &#x1F3AF; Objectifs du repository
 
 Ce dépôt regroupe uen série d'exercises classés par thématiques, avec une progression logique.
 Chaque exercise renforce les compétences essentielles d'un environnement Linux et de la ligne de commande :
