@@ -15,11 +15,8 @@ fi
 #verifier que le dossier existe
 dossier = "$1"
 
-if [ ! -d "$1" ]; then
- then echo "ok"
- else echo " Erreur : le dossier "$1" n'existe pas"
+if [ ! -d "$1" ];
+then echo " Erreur : le dossier "$1" n'existe pas"
+exit 1
 fi
 
-ls  | basename "$repertore"
-
-if 
