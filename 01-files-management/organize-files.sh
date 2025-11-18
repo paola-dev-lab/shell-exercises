@@ -20,3 +20,16 @@ then echo " Erreur : le dossier "$1" n'existe pas"
 exit 1
 fi
 
+# se deplacer dans le dossier pour travailler proprement
+
+dossier ="$1"
+
+cd $1
+
+# parcourir tous les fichiers
+
+for fichier in *.*; do 
+
+# verifier que ce n'est pas un dossier
+
+[ -f " $fichier" ] ; then
