@@ -32,4 +32,20 @@ for fichier in *.*; do
 
 # verifier que ce n'est pas un dossier
 
-[ -f " $fichier" ] ; then
+if [ -f " $fichier" ] ; then
+
+#extraccion de l'extension 
+extension="${fichier##*.}"
+
+#creer un dossier avec le nom de l'extension si pas encore existant
+mkdir -p "$extension"
+
+#deplacer le fichier dans le dossier correspondant
+mv fichier "$extension/"
+
+echo "$fichier déplacé dans $extension/"
+
+fi
+done
+
+
