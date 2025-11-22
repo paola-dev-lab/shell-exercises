@@ -41,7 +41,7 @@ extension="${fichier##*.}"
 mkdir -p "$extension"
 
 #deplacer le fichier dans le dossier correspondant
-mv fichier "$extension/"
+mv "$fichier" "$extension/"
 
 echo "$fichier déplacé dans $extension/"
 
