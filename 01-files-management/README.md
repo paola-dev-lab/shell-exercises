@@ -6,6 +6,7 @@ Objective: écrire un script shell qui organise automatiquement les fichiers d'u
 
 ### 1. Créer un programme organize_files.sh qui:
 
+---
 
 1. Prend en argument un chemin vers un dossier.
   Exemple: ./organise_files.sh ~/downloads
