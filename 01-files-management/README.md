@@ -4,7 +4,7 @@ Objective: écrire un script shell qui organise automatiquement les fichiers d'u
 
 ## Instructions 
 
-### 1. Créer un programme organize_files.sh qui:
+### Créer un programme organize_files.sh qui:
 
 ---
 
