@@ -16,3 +16,10 @@ Objective: écrire un script shell qui organise automatiquement les fichiers d'u
 
 3. parcourt les fichiers du dossier ayant une extension (*.*)
 
+4. Pour chaque fichier:
+- extraire l'extension
+- créer un dossier portant cette extension si necessaire
+- déplacer le fichier dans le dossier 
+
+5. Aficche les actions effectuées (log minimal)
+
