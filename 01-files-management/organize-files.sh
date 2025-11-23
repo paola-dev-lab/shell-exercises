@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 #--------------------------------
 #objectif: ranger les fichier d'un dossier par extension
 #usage : ./organize_files.sh /chemin/vers/dossier
