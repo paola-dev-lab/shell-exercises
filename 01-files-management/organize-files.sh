@@ -13,7 +13,7 @@ exit 1
 fi
 
 #verifier que le dossier existe
-dossier = "$1"
+dossier="$1"
 
 if [ ! -d "$1" ];
 then echo " Erreur : le dossier "$1" n'existe pas"
@@ -22,7 +22,7 @@ fi
 
 # se deplacer dans le dossier pour travailler proprement
 
-dossier ="$1"
+dossier="$1"
 
 cd $1
 
@@ -32,7 +32,7 @@ for fichier in *.*; do
 
 # verifier que ce n'est pas un dossier
 
-if [ -f " $fichier" ] ; then
+if [ -f "$fichier" ]; then
 
 #extraccion de l'extension 
 extension="${fichier##*.}"
