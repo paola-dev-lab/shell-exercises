@@ -13,15 +13,13 @@ Exemple d'usage: ./disk_usage.sh dossier
    - Si aucun argument n'est fourni, afficher un mesagge d'érreur.
    - Si le dossier n'existe pas, affiche un message d'erreur propre.
 
-Le script doit afficher:
+3. Le script doit afficher que la taille totale du dossier (commande du style du -sh)
 
-4. La taille totale du dossier (commande du style du -sh)
+4.  Le script doit afficher que les 5 fichiers les plus lourdes (tri décroissant, format lisible)
 
-5. Les 5 fichiers les plus lourdes (tri décroissant, format lisible)
+5.  Le script doit afficher que l'espace utilise et libre sur la partition (commande du style df -h sur la partition du dossier)
 
-6. L'espace utilise et libre sur la partition (commande du style df -h sur la partition du dossier)
-
-7. Le script doit organiser l'affichage avec:
+6. Le script doit organiser l'affichage avec:
    - Titres clairs
    - Valeurs alignées
    - Lignes de séparation (---)
