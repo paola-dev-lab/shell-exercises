@@ -22,7 +22,7 @@ Objectif: écrire un script shell qui organise automatiquement les fichiers d'un
    - créer un dossier portant cette extension si necessaire
    - déplacer le fichier dans le dossier 
 
-5. Aficche les actions effectuées (log minimal)
+5. Afiche les actions effectuées (log minimal)
 
 
 ⭐ Compétences visées
