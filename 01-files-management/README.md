@@ -1,6 +1,6 @@
 # File Organizer shell
 
-Objective: écrire un script shell qui organise automatiquement les fichiers d'un dossier en les classant dans des sous-dossiers selon leurs extension.
+Objectif: écrire un script shell qui organise automatiquement les fichiers d'un dossier en les classant dans des sous-dossiers selon leurs extension.
 
 ## Instructions 
 
