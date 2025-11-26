@@ -1,8 +1,8 @@
-#System Tools : Analyse d’utilisation du disque
+# System Tools : Analyse d’utilisation du disque
 ---
 Objectif: écrire un script shell qui analyse l'utilisation du disque d'un dossier et affiche les informations essentielles de manière lisible.
 
-##Instructions
+## Instructions
 
 ### Créer un programme disk_usage.sh : 
 ----
