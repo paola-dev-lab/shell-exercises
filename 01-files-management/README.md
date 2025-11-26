@@ -8,14 +8,14 @@ Objectif: écrire un script shell qui organise automatiquement les fichiers d'un
 
 ---
 
-1. Prend en argument un chemin vers un dossier.
-  Exemple: ./organise_files.sh ~/downloads
+1. Prendre en argument un chemin vers un dossier.
+  Exemple d'usage: ./organise_files.sh ~/downloads
 
-2. Vérifie que :
+2. Vérifier que :
    - un argument est fourni
    - que le dossier existe
 
-3. parcourt les fichiers du dossier ayant une extension (*.*)
+3. Parcourrir les fichiers du dossier ayant une extension (*.*)
 
 4. Pour chaque fichier:
    - extraire l'extension
