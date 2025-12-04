@@ -22,6 +22,11 @@ dossier="$1"
 cd $1
 
 #afficher la taille totale du dossier
+echo "taille du dossier :"
 du -sh $1
+
+#afficher les 5 fichiers les plus lourds (tri décroissant, format lisible par un humain)
+echo "les 5 dossiers les plus lourds sont :
+du -ah "$1"| sort -hr | head -n 5
 
 
