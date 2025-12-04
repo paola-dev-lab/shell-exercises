@@ -29,4 +29,4 @@ du -sh $1
 echo "les 5 dossiers les plus lourds sont :
 du -ah "$1"| sort -hr | head -n 5
 
-
+ls
