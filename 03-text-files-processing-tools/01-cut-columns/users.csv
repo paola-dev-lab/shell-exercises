@@ -1,0 +1,11 @@
+id,first_name,last_name,department,role,country,email,salary,hire_date
+101,Paola,Durand,HR,HR Business Partner,France,paola.durand@example.com,42000,2019-03-12
+102,Alex,Martin,IT,Junior Developer,France,alex.martin@example.com,36000,2021-07-01
+103,Marie,Leblanc,Finance,Financial Analyst,Belgium,marie.leblanc@example.com,45000,2018-11-23
+104,Sam,Dupont,IT,DevOps Engineer,France,sam.dupont@example.com,48000,2020-05-17
+105,Lina,Moreau,Marketing,Content Manager,Spain,lina.moreau@example.com,39000,2022-01-10
+106,Thomas,Rossi,Sales,Account Executive,Italy,thomas.rossi@example.com,41000,2019-09-05
+107,Inès,Petit,HR,Recruiter,France,ines.petit@example.com,35000,2023-02-14
+108,Julien,Garcia,IT,Senior Developer,France,julien.garcia@example.com,55000,2017-06-30
+109,Clara,Lopez,Customer Support,Support Specialist,Portugal,clara.lopez@example.com,32000,2020-10-19
+110,Victor,Nguyen,Data,Data Analyst,Germany,victor.nguyen@example.com,47000,2021-04-08
