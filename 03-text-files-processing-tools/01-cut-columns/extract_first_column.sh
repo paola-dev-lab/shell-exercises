@@ -2,8 +2,6 @@
 # objectif : extraire la première colonne d'un fichier texte
 # usage : ./extract_first_column.sh fichier.txt
 
-# work in progress
-
 # vérifier qu'un argument est fourni
 if [ -z "$1" ]; then
 echo "aucun argument n'a été fourni"
