@@ -12,9 +12,11 @@ exit 1
 fi
 
 # vérifier que le fichier existe
-if [ !-f "$1" ]; then
+if [ ! -f "$1" ]; then
 echo "le fichier n'existe pas"
 exit 1
 fi
 
-#extraire la première colonne du fichier texte
+
+#extraire la première colonne du fichier texte et affichage propre
+cut -d, -f1 -s  "$1"
