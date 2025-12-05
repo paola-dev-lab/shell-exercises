@@ -17,6 +17,8 @@ echo "le fichier n'existe pas"
 exit 1
 fi
 
+# Trouver le chemin absolu du fichier - Bonus : permet d'executer le programme depuis n'importe quel dossier
+fichier=$(readlink "$1")
 
 #extraire la première colonne du fichier texte et affichage propre
 cut -d, -f1 -s  "$1"
