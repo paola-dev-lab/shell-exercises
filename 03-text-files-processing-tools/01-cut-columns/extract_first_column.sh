@@ -9,14 +9,14 @@ echo "usage : extract_first_column fichier"
 exit 1
 fi
 
-# vérifier que le fichier existe
-if [ ! -f "$1" ]; then
-echo "le fichier n'existe pas"
-exit 1
-fi
-
 # Trouver le chemin absolu du fichier - Bonus : permet d'executer le programme depuis n'importe quel dossier
 fichier=$(readlink -f "$1")
+
+# vérifier que le fichier existe
+if [ ! -f "$fichier" ]; then
+echo "le fichier n'existe pas" : $fichier"
+exit 1
+fi
 
 #extraire la première colonne du fichier texte et affichage propre
 cut -d, -f1 -s  "$fichier"
