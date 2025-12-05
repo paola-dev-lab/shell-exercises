@@ -19,4 +19,4 @@ fi
 fichier=$(readlink -f "$1")
 
 #extraire la première colonne du fichier texte et affichage propre
-cut -d, -f1 -s  "$1"
+cut -d, -f1 -s  "$fichier"
