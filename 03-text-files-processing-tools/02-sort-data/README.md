@@ -21,7 +21,7 @@ Trier des lignes d’un fichier selon une colonne numérique.
 
 4. Affiche les lignes triées
 
-##⭐ Compétences visées
+## ⭐ Compétences visées
 
 - Tri numérique (sort -n)
 - Tri sur une colonne (sort -k)
