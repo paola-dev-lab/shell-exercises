@@ -14,7 +14,7 @@ fichier=$(readlink -f "$1")
 
 # vérifier que le fichier existe
 if [ ! -f "$fichier" ]; then
-echo "le fichier n'existe pas : $fichier"
+echo "le fichier n'existe pas : $fichier
 exit 1
 fi
 
