@@ -2,7 +2,7 @@
 
 ---
 
-📁 Dossier : 03-grep-filtering/
+📁 Dossier : grep-filtering/
 📄 Script : filter_errors.sh
 
 ## 🎯 Objectif 
