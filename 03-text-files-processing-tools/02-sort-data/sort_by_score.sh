@@ -1,6 +1,6 @@
 #!/bin/bash
 #objectif: trier des lignes d'un fichier non structuré en utilisant la commande sort.
-#usage: 02-sort-data.sh fichier.ext
+#usage: sort_by_score.sh fichier.ext
 
 
 #le script prends un fichier en argument
