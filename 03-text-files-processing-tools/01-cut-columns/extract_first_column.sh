@@ -20,3 +20,6 @@ fi
 
 #extraire la première colonne du fichier texte et affichage propre
 cut -d, -f1 -s  "$fichier"
+
+#sortie 
+exit O
