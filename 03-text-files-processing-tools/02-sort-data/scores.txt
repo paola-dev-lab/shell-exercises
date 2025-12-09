@@ -1,0 +1,10 @@
+Ana      78   Marketing
+Luis     45   Finances
+Clara    92   IT
+Pedro    15   Logistique
+Maria   100   Direction
+Julien    8   Stagiaire
+Lucie    47   RH
+Thomas   22   IT
+Sofia    88   Marketing
+Ruben    3    Stagiaire
