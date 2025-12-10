@@ -6,7 +6,7 @@
 
 ## &#x1F3AF; Objectifs du repository
 
-Ce dépôt regroupe uen série d'exercises classés par thématiques, avec une progression logique.
+Ce dépôt regroupe une série d'exercises classés par thématiques, avec une progression logique.
 Chaque exercise renforce les compétences essentielles d'un environnement Linux et de la ligne de commande :
 
 - Manipulation de fichiers et données
