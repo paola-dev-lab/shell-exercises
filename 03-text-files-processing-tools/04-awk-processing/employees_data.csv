@@ -1,0 +1,17 @@
+id,first_name,last_name,department,country,seniority_years,performance_score,salary,status,notes
+101,Paola,Durand,HR,France,5,82,42000,ACTIVE,"Remote 2j/semaine"
+102,Alex,Martin,IT,France,2,74,36000,ACTIVE,"Full remote"
+103,Marie,Leblanc,Finance,Belgium,6,91,48000,ACTIVE,"Pilot projet BI"
+104,Sam,Dupont,IT,France,3,65,39500,ACTIVE,"Shift 2"
+105,Lina,Moreau,Marketing,Spain,1,88,37000,ACTIVE,"Campagne Q1"
+106,Thomas,Rossi,Sales,Italy,4,59,41000,ON_LEAVE,"Arrêt maladie"
+107,Ines,Petit,HR,France,0,71,34000,ACTIVE,"Junior recrutement"
+108,Julien,Garcia,IT,France,7,95,55000,ACTIVE,"Tech lead"
+109,Clara,Lopez,Support,Portugal,3,69,33000,ACTIVE,"Soir + week-end"
+110,Victor,Nguyen,Data,Germany,2,92,47000,ACTIVE,"Projet IA"
+111,Sara,Morel,Finance,France,8,77,51000,ACTIVE,"Temps partiel 80%"
+112,Amir,Hassan,IT,Morocco,1,48,ERROR_INVALID_SALARY,ACTIVE,"Erreur de saisie paie"
+113,Nora,Da Silva,Marketing,Portugal,5,83,39000,ACTIVE,"Référente marque"
+114,Hugo,Bernard,Support,France,2,54,32000,ACTIVE,"Formation en cours"
+115,Lucie,Renard,HR,France,4,89,43000,ACTIVE,"Référente mobilité"
+
